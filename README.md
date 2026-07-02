@@ -50,7 +50,7 @@ systemctl restart nginx重启服务
 ss -tunlp | grep 8080查看监听端口
 
 ### 6. 公网访问测试
-浏览器访问：http://你的公网IP:8080/?name=zhangbotao
+浏览器访问：http://118.31.39.182:8080/?name=zhangbotao
 
 ### 踩坑记录
 1：SSH 连接被拒绝
